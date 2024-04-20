@@ -33,10 +33,12 @@ The next interface in the project is the City Search interface, which allows use
 In this interface, users can add information about a specific martyr, including their details and region.
 ![333](https://github.com/manard/Palestine-Martyrs-Project/assets/106376651/1ef89232-997d-4e77-bc66-cc75e2c1ca6d)
 
-You can explore all the features of the project by downloading it and trying it out
+
 
 In this interface, users can view the martyrs from a specific city. Each city is stored as a node in the AVL tree, and the martyrs of each city are stored in an additional tree within the node corresponding to that city.
 
 ![444](https://github.com/manard/Palestine-Martyrs-Project/assets/106376651/9cba443f-9f2c-43aa-9d09-402a0d4835d3)
+
+You can explore all the features of the project by downloading it and trying it out
 
 
