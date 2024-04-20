@@ -15,6 +15,7 @@ Data Documentation: Each record is thoroughly and accurately documented, facilit
 Project Technologies:
 
 AVL Tree: For organizing data and speeding up search operations.
+
 Stack and Queue: For managing addition and deletion operations effectively.
 Conclusion:
 
@@ -23,6 +24,7 @@ This project is expected to be beneficial for individuals and organizations inte
 Main Interface:
 
 The main interface of the project includes a button to import information from the file. Additionally, it features a menu bar where each item contains options such as Add, Delete, Edit, and Search, allowing the user to choose their desired action.
+
 ![111](https://github.com/manard/Palestine-Martyrs-Project/assets/106376651/9d8b1846-a00a-4e74-ac36-f714e1667531)
 
 The next interface in the project is the City Search interface, which allows users to search for information related to a specific city.
