@@ -1,27 +1,37 @@
-Project Name: Palestine Martyrs Information Management System
+<h1>Palestine Martyrs Information Management System</h1>
 
-Project Description:
+<h2>Description</h2>
 
 The Palestine Martyrs Information Management System is an application designed to record and display information about martyrs in Palestine, based on available data files, while providing the capability to add, delete, and search records using multiple techniques.
 
-Project Features:
+<h2>Features</h2>
 
-Data Management: The project enables the management of data related to martyrs, such as names, dates, locations, and other details.
-Addition and Deletion Capability: Users can add new records for martyrs or delete old records as needed.
-Search and Filtering: The project offers search and filtering options for data, making it easy for users to find the information they need.
-Advanced Techniques Usage: The project utilizes advanced techniques like AVL Tree, Stack, and Queue to organize and manage data efficiently.
-User-Friendly Interface: The project features a simple and user-friendly interface that allows users to interact with the system easily.
-Data Documentation: Each record is thoroughly and accurately documented, facilitating search and retrieval operations later on.
-Project Technologies:
+<h3>Data Management</h3>
+The project enables the management of data related to martyrs, such as names, dates, locations, and other details.
+<h3>Addition and Deletion Capability</h3>
+Users can add new records for martyrs or delete old records as needed.
+<h3>Search and Filtering</h3>
+The project offers search and filtering options for data, making it easy for users to find the information they need.
+<h3>Advanced Techniques Usage</h3>
+The project utilizes advanced techniques like AVL Tree, Stack, and Queue to organize and manage data efficiently.
+<h3>User-Friendly</h3> 
+Interface The project features a simple and user-friendly interface that allows users to interact with the system easily.
+<h3>Data Documentation</h3>
+Each record is thoroughly and accurately documented, facilitating search and retrieval operations later on.
 
-AVL Tree: For organizing data and speeding up search operations.
+<h2>Project Technologies</h2>
 
-Stack and Queue: For managing addition and deletion operations effectively.
-Conclusion:
+<h3>AVL Tree</h3>
+For organizing data and speeding up search operations.
+
+<h3>Stack and Queue</h3>
+For managing addition and deletion operations effectively.
+
+<h2>Conclusion</h2>
 
 This project is expected to be beneficial for individuals and organizations interested in organizing and managing information about martyrs in Palestine efficiently and systematically.
 
-Main Interface:
+<h2>Main Interface</h2>
 
 The main interface of the project includes a button to import information from the file. Additionally, it features a menu bar where each item contains options such as Add, Delete, Edit, and Search, allowing the user to choose their desired action.
 
@@ -39,6 +49,5 @@ In this interface, users can view the martyrs from a specific city. Each city is
 
 ![444](https://github.com/manard/Palestine-Martyrs-Project/assets/106376651/9cba443f-9f2c-43aa-9d09-402a0d4835d3)
 
-You can explore all the features of the project by downloading it and trying it out
 
 
